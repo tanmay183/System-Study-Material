@@ -84,25 +84,5 @@ Each permission (r, w, x) has a corresponding octal value: r = 4, w = 2, and x =
 
 ### Example
 
-tanmay@tanmay:~$ ls -lrthai    //give index to each file (inode)
-total 80K
-1835013 -rw-r--r--  1 tanmay tanmay  807 Mar 31 14:11 .profile
-1835011 -rw-r--r--  1 tanmay tanmay 3.7K Mar 31 14:11 .bashrc
-1835012 -rw-r--r--  1 tanmay tanmay  220 Mar 31 14:11 .bash_logout
-1703937 drwxr-xr-x  3 root   root   4.0K Sep 18 14:53 ..
-1835014 drwx------  2 tanmay tanmay 4.0K Sep 18 14:54 .ssh
-1835021 drwx------  4 tanmay tanmay 4.0K Sep 18 14:54 .local
-1835061 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Templates
-1835060 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Downloads
-1835059 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Desktop
-1835066 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Videos
-1835062 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Public
-1835065 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Pictures
-1835064 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Music
-1835063 drwxr-xr-x  2 tanmay tanmay 4.0K Sep 18 14:54 Documents
-1835026 drwx------ 10 tanmay tanmay 4.0K Sep 18 18:24 .cache
-1835578 drwx------  2 tanmay tanmay 4.0K Sep 18 18:31 .gnupg
-1835067 drwx------ 12 tanmay tanmay 4.0K Sep 18 18:36 .config
-1835016 drwx------  5 tanmay tanmay 4.0K Sep 18 18:44 snap
-1838233 -rw-rw-r--  1 tanmay tanmay 2.1K Sep 18 18:50 linux.txt
-1835010 drwxr-x--- 16 tanmay tanmay 4.0K Sep 18 18:50 .
+<img width="897" height="592" alt="image" src="https://github.com/user-attachments/assets/7021d86a-c801-4364-9b4e-f8755ce7854e" />
+
